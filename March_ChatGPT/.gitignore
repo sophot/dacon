@@ -1,9 +1,12 @@
 distilroberta/
 distilroberta-b16/
 distilroberta-b8/
+distilroberta-focalloss/
 logs/
 results/
 .ipynb_checkpoints/
 bert_large_uncased.ipynb
+PostCompetition_Ref1.ipynb
+deberta-v3-focalloss/
 *.txt
 *.csv
